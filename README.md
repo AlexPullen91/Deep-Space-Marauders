@@ -1,13 +1,10 @@
 # Deep Space Marauders 
 
-*Way out on the fringes of the Andromeda galaxy a ragtag band of fearsome pirates have become seperated from the rest of their crew. Having been in hot pursuit of a straggler from the recently ambushed trade convoy that had been en route to one of the deep space mining colonies they have now found themselves way off the beaten path. The trails gone cold and it's about time to head back when suddenly radar alerts them to incoming projectiles. It's an ambush! Never ones to back down from a fight they divert power to weapons systems and turn to engage their mysterious foes head on.*
+*Way out on the seldom seen fringes of the Andromeda galaxy a ragtag band of fearsome pirates have become seperated from the rest of their crew. Having been in hot pursuit of stragglers from a recently ambushed trade convoy en route to one of the deep space mining colonies, they have now found themselves perilously off the beaten path. The trails gone cold. Reluctantly they decide it's time to cut their losses and turn to head back, when suddenly radar alerts them to incoming projectiles. They're under attack! Never one to back down from a fight they divert power to weapons systems and turn to engage their mysterious foes head on.*
 
+---
 
-
-
-Deep Space Marauders is a narrative driven 2D top down arcade space shooter offering ship selection, power-ups, scaling difficulty and boss fights.
-
-
+Deep Space Marauders is a narrative driven 2D top down arcade space shooter offering features such as ship selection, power-ups, scaling difficulty and boss fights.
 
 ---
 
@@ -64,17 +61,21 @@ The goal of this project is to create an engaging and interactive 2D style top d
 
 #### Site Owner Goals
 
-* .
-* .
+* Provide an immersive and engaging experience.
+* Playable and responsive across multiple devices, mobile, tablet and desktop.
 * .
 
 ---
 
 ## Design Choices
 
-* 
-* 
-* 
+* Sci-fi retro themes reminiscent of old school shooters.
+* Colourful weapons and explosions.
+* Sound effects with explosions and weapons.
+* Game play accompanied by background music.
+* Text-based narrative that provides world buiding and immersion.
+* Full screen landscape when playing on mobile.
+* Full screen on desktop and tablet
 
 ---
 
@@ -88,19 +89,20 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Deep-Space-Mar
 
 ### Features
 
-* Main menu screen
-* Game over screen
-* Story mode
-* Character selection
-* Power-ups
-* High scores
-* Increasing difficulties and levels
-* Boss fights
+* Main menu screen.
+* Game over screen.
+* Story mode.
+* Character selection.
+* Power-ups and weapon unlocks.
+* High scores.
+* Increasing difficulties and levels.
+* Boss fights.
 
 
 #### Potential Future features
 
-*
+* Customizable ships with further options unlocked through progression in levels.
+* Different backgrounds and areas as the player progresses.
 
 ---
 
@@ -112,9 +114,9 @@ You can find my wireframes [here](https://github.com/AlexPullen91/Deep-Space-Mar
 
 ---
 
-## Libraries
+## Libraries and Frameworks
 
-*
+* [Phaser 3](https://phaser.io/)
 
 ---
 
