@@ -76,8 +76,7 @@ The goal of this project is to create an engaging and interactive 2D style top d
 * Colourful weapons and explosions.
 * Sound effects accompany explosions and weapons.
 * Game play accompanied by background music.
-* Full screen landscape when playing on mobile.
-* Full screen on desktop and tablet.
+* Full screen on mobile desktop and tablet.
 
 ---
 
