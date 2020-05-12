@@ -10,7 +10,7 @@ Deep Space Marauders is a narrative driven 2D top down arcade space shooter offe
 
 # Contents
 1. [UX / Project Goals](#ux)
-2. [User Goals](#user-Goals)
+2. [User Goals](#user-goals)
 3. [User Stories](#user-stories)
 4. [Site Owner Goals](#site-owner-goals)
 5. [Design Choices](#design-choices)
@@ -70,12 +70,14 @@ The goal of this project is to create an engaging and interactive 2D style top d
 ## Design Choices
 
 * Sci-fi retro themes reminiscent of old school shooters.
+* Text-based narrative that provides some world buiding and immersion.
+* Choice of 3 different pirate characters each with different ship model.
+* Aim of the game is to fend off waves of enemies and bosses and be re-united with the other 2 characters and escape.
 * Colourful weapons and explosions.
-* Sound effects with explosions and weapons.
+* Sound effects accompany explosions and weapons.
 * Game play accompanied by background music.
-* Text-based narrative that provides world buiding and immersion.
 * Full screen landscape when playing on mobile.
-* Full screen on desktop and tablet
+* Full screen on desktop and tablet.
 
 ---
 
