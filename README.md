@@ -1,6 +1,6 @@
 # Deep Space Marauders 
 
-**Way out on the fringes of the Andromeda galaxy a ragtag band of fearsome pirates have become seperated from the rest of their crew. Having been in hot pursuit of a straggler from the recently ambushed trade convoy that had been en route to one of the deep space mining colonies they have now found themselves way off the beaten path. The trails gone cold and it's about time to head back when suddenly radar alerts them to incoming projectiles. It's an ambush! Never ones to back down from a fight they divert power to weapons systems and turn to engage their mysterious foes head on.**
+*Way out on the fringes of the Andromeda galaxy a ragtag band of fearsome pirates have become seperated from the rest of their crew. Having been in hot pursuit of a straggler from the recently ambushed trade convoy that had been en route to one of the deep space mining colonies they have now found themselves way off the beaten path. The trails gone cold and it's about time to head back when suddenly radar alerts them to incoming projectiles. It's an ambush! Never ones to back down from a fight they divert power to weapons systems and turn to engage their mysterious foes head on.*
 
 
 Deep Space Marauders is a narrative driven 2D top down arcade space shooter offering ship selection, power-ups, scaling difficulty and boss fights.
