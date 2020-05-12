@@ -4,7 +4,7 @@
 
 ---
 
-Deep Space Marauders is a narrative driven 2D top down arcade space shooter offering features such as ship selection, power-ups, scaling difficulty and boss fights.
+**Deep Space Marauders** is a narrative driven 2D top down arcade space shooter offering features such as ship selection, power-ups, scaling difficulty and boss fights.
 
 ---
 
@@ -47,17 +47,17 @@ The goal of this project is to create an engaging and interactive 2D style top d
 
 *"As a video gamer I expect to encounter boss fights the further I progress"*
 
-*"As a video gamer I expect to find music and sound effects that correlate appropriately to user input and in-game interactions"
+*"As a video gamer I expect to find music and sound effects that correlate appropriately to user input and in-game interactions"*
 
 *"As a video gamer I expect to find the option to play this game without music or sound effects"*
 
 *"As a video gamer I expect to easily find the controls for how to play this game"*
 
-*"As a video gamer I expect to be able to keep track of my score and compare it to previous attempts of mine and others"
+*"As a video gamer I expect to be able to keep track of my score and compare it to previous attempts of mine and others"*
 
-*"As a video gamer I expect to find power-ups that increase the capabilites of my player character"
+*"As a video gamer I expect to find power-ups that increase the capabilites of my player character"*
 
-*"As a video gamer I expect to encounter a range of enemies with varied attributes"
+*"As a video gamer I expect to encounter a range of enemies with varied attributes"*
 
 #### Site Owner Goals
 
